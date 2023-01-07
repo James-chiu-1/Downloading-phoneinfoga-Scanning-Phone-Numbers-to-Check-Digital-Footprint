@@ -1,4 +1,4 @@
-Downloading phoneinfoga Scanning Phone Numbers to Check Digital Footprint</h1>
+Phoneinfoga Phone number Digital Footprint Scan Lab</h1>
 
 <h2>Description</h2>
 In this project we are going to download Phoneinfoga on Oracle vm virtualbox to check a phone numbers digital footprint. 
